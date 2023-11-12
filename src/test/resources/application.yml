@@ -1,0 +1,41 @@
+integration:
+  via-cep:
+    url: https://viacep.com.br
+---
+config:
+  zip-codes:
+    "88010000":
+      zipCode: 88010-000
+      address: "Rua Felipe Schmidt"
+      complement: "até 348/349"
+      neighborhood: "Centro"
+      city: "Florianópolis"
+      ddd: 48
+    "05050000":
+      zipCode: 05050-000
+      address: "Rua Monteiro de Melo"
+      complement:
+      neighborhood: "Lapa"
+      city: "São Paulo"
+      ddd: 11
+    "69095160":
+      zipCode: 69095-160
+      address: "Avenida Bispo Pedro Massa"
+      complement: "(1 a 1174)"
+      neighborhood: "Cidade Nova"
+      city: "Manaus"
+      ddd: 92
+    "65052865":
+      zipCode: 65052-865
+      address: "Avenida Contorno Sul"
+      complement:
+      neighborhood: "Residencial Primavera"
+      city: "São Luís"
+      ddd: 98
+    "71698906":
+      zipCode: 71698-906
+      address: "Rodovia DF-465"
+      complement:
+      neighborhood: "Fazenda Papuda"
+      city: "Brasília"
+      ddd: 61
