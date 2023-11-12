@@ -58,5 +58,5 @@ Exemplo:
 
 **Contato**:
 
-- **LinkedIn**: https://www.linkedin.com/in/shelcicky-alves-3b0102a6/
+- **LinkedIn**: https://www.linkedin.com/in/shelcicky/
 - **Instagram**: https://www.instagram.com/shell.wilkerson/
